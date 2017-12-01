@@ -1,0 +1,34 @@
+9.2
+RangeError: Maximum call stack size exceeded
+
+11
+Incomplete
+
+13
+Incomplete. Part 1 solved manually (traced the path, map output should be ok)
+
+17
+
+18.2
+Didn't take long for the 400,000 but there definetly are patterns. row 1 (not 0), 2 and 3 occurred again somewhere along the way
+
+19
+Not started
+
+20
+Getting incorrect result, need to investigate
+
+21
+Not started
+
+22
+Not started
+
+23
+Not started
+
+24
+Not started
+
+25
+Not started
